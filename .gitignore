@@ -1,0 +1,13 @@
+**/*.zip
+**/*.csv
+**/*.jpg
+**/*.JPG
+**/*.jpeg
+**/*.JPEG
+**/*.png
+**/*.PNG
+**/*.gif
+**/*.GIF
+**/.Rhistory
+.Rhistory
+**/*.txt
