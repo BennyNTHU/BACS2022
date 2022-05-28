@@ -1,1 +1,0 @@
-.libPaths("C:/software/Rpackages")
